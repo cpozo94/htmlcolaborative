@@ -2,7 +2,19 @@
     color: grey;
   }
 
-  img{
+.card-title {
+    background-color: white;
+    text-align: center;
     width:100%;
-  }
+    height: 10%;
+    font-size:1.6cm;
+}
 
+.card-text {
+    background-color: white;
+    text-align: center;
+    width:100%;
+    height: 5%;
+    font-size:1cm;
+
+}
