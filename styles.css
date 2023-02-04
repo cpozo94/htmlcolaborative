@@ -1,0 +1,19 @@
+.navbar a {
+    color: grey;
+  }
+
+.card-title {
+    background-color: white;
+    text-align: center;
+    width:100%;
+    font-size:1.6cm;
+}
+
+.card-text {
+    background-color: white;
+    text-align: center;
+    width:100%;
+    
+    font-size:1cm;
+
+}
