@@ -5,15 +5,16 @@
 .card-title {
     background-color: white;
     text-align: center;
-    width:100%;
-    font-size:1.6cm;
+    height: 18%;
+    font-size:3cm;
+    margin-top: 3%;
 }
 
 .card-text {
     background-color: white;
     text-align: center;
-    width:100%;
-    
-    font-size:1cm;
+    height: 10%;
+    font-size:1.8cm;
+    margin-top: 1.5%;
 
 }
