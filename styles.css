@@ -1,0 +1,26 @@
+
+main{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1px black solid;
+    background-color: gainsboro;
+
+}
+
+
+.principal{
+    
+
+}
+  .images1, .images2{
+    border-radius: 100rem;
+}
+
+
+.justificar{
+    text-align: justify;
+}
+.fondo{
+    background: red;
+}
