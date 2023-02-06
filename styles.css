@@ -1,3 +1,7 @@
+body {
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
 .navbar a {
     color: grey;
     font-weight: 500;
@@ -18,4 +22,30 @@
     font-size: 5.5vw;
     margin-top: 2%;
 
+}
+
+.Porfolio, .Contact {
+    margin: 0 20px;
+    padding: 30px 50px;
+    border-top: 1px solid gainsboro;
+    
+}
+
+.Porfolio > h2 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.card-text1{
+    font-size: 20px;
+}
+
+.Contactinformation{
+    background-color: gainsboro;
+    margin: auto ;
+    padding: 40px;
+    width: 50%;
 }
